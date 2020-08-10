@@ -1,0 +1,6 @@
+
+tensorflow-gpu>=1.15
+numpy==1.18.4
+scikit-image==0.17.1
+tqdm
+scipy
